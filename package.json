@@ -1,0 +1,23 @@
+{
+  "name": "cypress-jenkins",
+  "version": "1.0.0",
+  "description": "test parallelization with zenkins",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maguislain/Cypress-jenkins.git"
+  },
+  "author": "maguislain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maguislain/Cypress-jenkins/issues"
+  },
+  "homepage": "https://github.com/maguislain/Cypress-jenkins#readme",
+  "dependencies": {
+    "cypress": "^7.3.0",
+    "mocha": "^8.4.0"
+  }
+}
